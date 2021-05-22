@@ -1,1 +1,0 @@
-This project contains basic implementations of different machine learning models. 
